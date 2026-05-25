@@ -1,6 +1,5 @@
-I am an undergraduate student pursuing computer science and brain
-and cognitive science and am interested in Artificial Intelligence,
-Creative Coding and VR, AR development.
+digital entity
+
 
 <!---
 resehn/resehn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
